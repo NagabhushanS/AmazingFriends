@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_edit_friends"
+        android:title="@string/menu_edit_friends_label">
+    </item>
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/menu_logout_label">
+    </item>
+    <item
+        android:id="@+id/action_camera"
+        android:icon="@drawable/ic_menu_camera"
+        android:showAsAction="always"
+        android:title="@string/menu_camera_label">
+    </item>
+
+</menu>
