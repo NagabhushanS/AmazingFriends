@@ -5,6 +5,7 @@ public final class ParseConstants {
 	public static final String CLASS_MESSAGES = "Messages";
 	
 	// Field names
+	// The names are mainly related to the Parse Object keys
 	public static final String KEY_USER_ID = "userId";
 	public static final String KEY_USERNAME = "username";
 	public static final String KEY_FRIENDS_RELATION = "friendsRelation";
